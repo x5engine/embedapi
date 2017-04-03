@@ -1,8 +1,8 @@
 Package.describe({
-  name: "vulcan:embedly",
-  summary: "Telescope Embedly module package",
-  version: '1.3.0',
-  git: 'https://github.com/TelescopeJS/telescope-embedly.git'
+  name: "vulcan:embedapi",
+  summary: "Vulcan Embedapi module package",
+  version: '1.0.0',
+  git: 'git@github.com:meteorplus/embedapi.git'
 });
 
 Package.onUse( function(api) {
