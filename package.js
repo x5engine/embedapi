@@ -1,5 +1,5 @@
 Package.describe({
-  name: "vulcan:embedapi",
+  name: "meteorplus:embedapi",
   summary: "Vulcan Embedapi module package",
   version: '1.0.0',
   git: 'git@github.com:meteorplus/embedapi.git'
