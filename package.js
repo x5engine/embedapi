@@ -1,7 +1,7 @@
 Package.describe({
   name: "meteorplus:embedapi",
   summary: "Vulcan Embedapi module package",
-  version: '1.0.0',
+  version: '1.0.2',
   git: 'git@github.com:meteorplus/embedapi.git'
 });
 
@@ -10,8 +10,8 @@ Package.onUse( function(api) {
   api.versionsFrom("METEOR@1.0");
 
   api.use([
-    'vulcan:core@1.3.0',
-    'vulcan:posts@1.3.0',
+    'vulcan:core@1.3.2',
+    'vulcan:posts@1.3.2',
     'fourseven:scss'
   ]);
 
