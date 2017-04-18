@@ -12,7 +12,7 @@ Package.onUse( function(api) {
   api.use([
     'vulcan:core@1.3.2',
     'vulcan:posts@1.3.2',
-    'fourseven:scss'
+    'fourseven:scss@4.5.0'
   ]);
 
   api.addFiles([
